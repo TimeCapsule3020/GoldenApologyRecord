@@ -1,2 +1,3 @@
 # Golden Apology Record
-A message to future generations 
+A message to future generations on earth.
+A message in the Arctic time capsule by GitHub, much more realistic than the whitewashing Voyager Golden Record on its way to the stars...
