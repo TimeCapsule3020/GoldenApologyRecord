@@ -37,7 +37,7 @@ Dabei liegt im gerade begonnenen 21. Jahrhundert vieles im Argen:
   Gewaltbereitschaft und Hass. Die verheerenden Kriege und Gräueltaten des 20. Jahrhunderts scheinen vergessen und
   drohen sich erneut zu wiederholen.
 - Die Wohlstandsgesellschaft grenzt sich immer mehr gegenüber Benachteiligten aus anderen Ländern ab. Viele Staaten in Europa
- und Nordamerika und andere Länder wie Australien schotten sich mittlerweile rigoros ab. Ankommende Flüchtlinge werden
+  und Nordamerika und andere Länder wie Australien schotten sich mittlerweile rigoros ab. Ankommende Flüchtlinge werden
   wie gefährliche Staatsfeinde betrachtet und behandelt. An vielen Grenzen findet man hohe Zäune aus Beton und Stacheldraht,
   überwacht von Tausenden schwerbewaffneten Grenzpolizisten und immer im Blick der Überwachungskameras. Zum Beispiel das
   Mittelmeer als natürliche Grenze versuchen viele Menschen in einfachen Booten zu überqueren und werden von den zuständigen
