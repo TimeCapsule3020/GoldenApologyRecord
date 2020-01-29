@@ -26,7 +26,8 @@ Dabei liegt im gerade begonnenen 21. Jahrhundert vieles im Argen:
  
 - Rücksichtsloses Wirtschaftssystem mit systematischer Ausbeutung vieler Menschen in benachteiligten Ländern
 - Zerstörung von Lebensgrundlagen, der gesamten Umwelt und letztendlich der Biosphäre (bewusst in Kauf genommene Veränderung
-  des globalen Klimas, Verschmutzung und Vergiftung von Erde, Luft und aller Gewässer, Zerstörung von Biotopen und Lebensräumen) zugunsten kurzfristiger Vorteile
+  des globalen Klimas, Verschmutzung und Vergiftung von Erde, Luft und aller Gewässer, Zerstörung von Biotopen und Lebensräumen)
+  zugunsten kurzfristiger Vorteile
 - Ausbeutung, Manipulation und Auslöschen/Verdrängen anderer Lebewesen
 - bisher kein sicheres Verwahren von radioaktiven Hinterlassenschaften mit dem Risiko schwerster gesundheitlicher und
   ökologischer Schäden
