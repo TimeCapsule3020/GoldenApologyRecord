@@ -56,7 +56,7 @@ die Euch lieben und denen Eure Zukunft nicht egal ist!
 
 Liebe Gruesse und Gottes Segen
 
-Andreas Dietz
+Andreas Dietz, Bayern, Deutschland
  
 */
 #include <stdio.h>
